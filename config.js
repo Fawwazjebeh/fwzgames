@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/DBMiiA7LyIm2GfdfrhnrR5', 'https://chat.whatsapp.com/DBMiiA7LyIm2GfdfrhnrR5']
-global.Owner = 
+global.Owner = }
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6281284843853': { // put your number here
     name: 'Owner Metro Bot/Creator games-wabot',
